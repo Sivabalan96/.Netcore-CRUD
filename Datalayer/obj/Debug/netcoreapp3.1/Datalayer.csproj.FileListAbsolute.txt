@@ -1,0 +1,4 @@
+E:\OmPrakash\SupportCoreApi\SupportCoreApi\Datalayer\bin\Debug\netcoreapp3.1\BusinessModels.dll
+E:\OmPrakash\SupportCoreApi\SupportCoreApi\Datalayer\obj\Debug\netcoreapp3.1\Datalayer.csprojAssemblyReference.cache
+E:\OmPrakash\SupportCoreApi\SupportCoreApi\Datalayer\obj\Debug\netcoreapp3.1\Datalayer.AssemblyInfoInputs.cache
+E:\OmPrakash\SupportCoreApi\SupportCoreApi\Datalayer\obj\Debug\netcoreapp3.1\Datalayer.AssemblyInfo.cs
