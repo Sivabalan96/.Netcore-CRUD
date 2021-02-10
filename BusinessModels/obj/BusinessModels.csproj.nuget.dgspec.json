@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gopinath\\Desktop\\New folder\\.Netcore-CRUD\\BusinessModels\\BusinessModels.csproj": {}
+    "E:\\OmPrakash\\SupportCoreApi\\SupportCoreApi\\BusinessModels\\BusinessModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gopinath\\Desktop\\New folder\\.Netcore-CRUD\\BusinessModels\\BusinessModels.csproj": {
+    "E:\\OmPrakash\\SupportCoreApi\\SupportCoreApi\\BusinessModels\\BusinessModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gopinath\\Desktop\\New folder\\.Netcore-CRUD\\BusinessModels\\BusinessModels.csproj",
+        "projectUniqueName": "E:\\OmPrakash\\SupportCoreApi\\SupportCoreApi\\BusinessModels\\BusinessModels.csproj",
         "projectName": "BusinessModels",
-        "projectPath": "C:\\Users\\Gopinath\\Desktop\\New folder\\.Netcore-CRUD\\BusinessModels\\BusinessModels.csproj",
+        "projectPath": "E:\\OmPrakash\\SupportCoreApi\\SupportCoreApi\\BusinessModels\\BusinessModels.csproj",
         "packagesPath": "C:\\Users\\Gopinath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gopinath\\Desktop\\New folder\\.Netcore-CRUD\\BusinessModels\\obj\\",
+        "outputPath": "E:\\OmPrakash\\SupportCoreApi\\SupportCoreApi\\BusinessModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

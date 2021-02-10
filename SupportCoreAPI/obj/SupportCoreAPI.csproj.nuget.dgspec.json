@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gopinath\\Desktop\\New folder\\.Netcore-CRUD\\SupportCoreAPI\\SupportCoreAPI.csproj": {}
+    "E:\\OmPrakash\\SupportCoreApi\\SupportCoreApi\\SupportCoreAPI\\SupportCoreAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gopinath\\Desktop\\New folder\\.Netcore-CRUD\\SupportCoreAPI\\SupportCoreAPI.csproj": {
+    "E:\\OmPrakash\\SupportCoreApi\\SupportCoreApi\\SupportCoreAPI\\SupportCoreAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gopinath\\Desktop\\New folder\\.Netcore-CRUD\\SupportCoreAPI\\SupportCoreAPI.csproj",
+        "projectUniqueName": "E:\\OmPrakash\\SupportCoreApi\\SupportCoreApi\\SupportCoreAPI\\SupportCoreAPI.csproj",
         "projectName": "SupportCoreAPI",
-        "projectPath": "C:\\Users\\Gopinath\\Desktop\\New folder\\.Netcore-CRUD\\SupportCoreAPI\\SupportCoreAPI.csproj",
+        "projectPath": "E:\\OmPrakash\\SupportCoreApi\\SupportCoreApi\\SupportCoreAPI\\SupportCoreAPI.csproj",
         "packagesPath": "C:\\Users\\Gopinath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gopinath\\Desktop\\New folder\\.Netcore-CRUD\\SupportCoreAPI\\obj\\",
+        "outputPath": "E:\\OmPrakash\\SupportCoreApi\\SupportCoreApi\\SupportCoreAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
